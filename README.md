@@ -1,2 +1,2 @@
 # learning-wd1
-repositori untuk menyimpan rencana WPU kedepannya
+membuat web dan aplikasi secara mandiri
