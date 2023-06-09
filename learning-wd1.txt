@@ -3,6 +3,7 @@ belajar dasar pemograman
  * merancang kebutuhan 
  * support 
 -belajar 2 jam perhari
+ * membuat lengkap laporan
 -selalu mengulang materi setiap start belajar
 -mencari referensi belajar
 -istiqomah belajar
