@@ -9,3 +9,4 @@ RENCANA BELAJAR BRANCH
 -  membuat target belajar
 -  review weekly
 -  membuat laporan
+-  mengisi absen belajar
