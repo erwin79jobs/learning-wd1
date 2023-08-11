@@ -4,6 +4,8 @@ RENCANA BELAJAR BRANCH
   *  mengumpulkan materi ilmu tentang branch video/artikel
   *  mencari data 
 -  belajar /day
+   * menargetkan pembelajaran per hari
 -  membuat schedule belajar
 -  membuat target belajar
 -  review weekly
+-  membuat laporan
